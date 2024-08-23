@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iush-Yadav
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning JavaScript 
-- 🙃 I’m looking to collaborate on graphic designing 
+- 🙃 I’m looking!!
 - ⚡ Fun fact: I don't know anything about coding 😢
 
 <!---
