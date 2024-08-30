@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning JavaScript 
 - 🙃 I’m looking!!!
-- ⚡ Fun fact: I don't know anything about coding 😢
+- ⚡ Fun fact❌ Naked truth ✔️: I don't know anything about coding 😢
 
 <!---
 Iush-Yadav/Iush-Yadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
