@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Iush-Yadav
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning JavaScript 
+- 👀 I’m interested in programming  
 - 🙃 I’m looking!!!
 - ⚡ Fun fact❌ Naked truth ✔️: I don't know anything about coding 😢
 
