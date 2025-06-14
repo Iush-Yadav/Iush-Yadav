@@ -41,7 +41,7 @@
 ## 📫 Let's Connect
 
 - [Portfolio Website](https://contact-ayush.netlify.app)
-- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/ayush-yadav-257a232b1/))
+- [LinkedIn](https://www.linkedin.com/in/ayush-yadav-257a232b1/))
 - [Email](mailto:ydvayush27@gmail.com.com)
 
 ---
