@@ -28,7 +28,7 @@
 
 ## 🌟 Featured Project
 
-### 🚀 [Startup Connect](https://github.com/yourusername/startup-connect](https://github.com/Iush-Yadav/StartupConnect)  
+### 🚀 [Startup Connect](https://github.com/yourusername/startup-connect](https://github.com/Iush-Yadav/StartupConnect)](https://github.com/Iush-Yadav/StartupConnect)  
 *A platform where startup entrepreneurs and investors collaborate to share diverse, innovative ideas.*
 
 
