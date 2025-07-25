@@ -9,11 +9,11 @@
 ## 🧰 Tech Stack
 
 - **Languages:** C, Python, JavaScript, TypeScript, SQL
-- **Frontend:** React.js, Tailwind CSS, HTML5, CSS3, Figma
-- **Backend:** Supabase, Node.js (basic), Flask
+- **Frontend:** React.js, Tailwind CSS, HTML5, CSS3
+- **Backend:** Supabase,Firebase, Node.js (basic), Flask
 - **Tools & DevOps:** GitHub, Vercel, Netlify, Firebase, VS Code
 - **AI/ML Libraries:** NumPy, Pandas, Matplotlib, OpenCV, MediaPipe
-- **Others:** Canva, Framer Motion, LaTeX, Verilog HDL
+- **Others:** Figma, Canva, Framer Motion, LaTeX, Verilog HDL
 
 ---
 
@@ -30,6 +30,9 @@
 
 ### 🚀 [Startup Connect]  -  https://github.com/Iush-Yadav/StartupConnect 
 *A platform where startup entrepreneurs and investors collaborate to share diverse, innovative ideas.*
+
+### 🚀 [Online Exams Cheat Detection System]  - https://github.com/Iush-Yadav/Online-Cheat-Detector 
+*Designed for remote proctoring: the system monitors examinee eye movements to identify behaviors consistent with cheating (e.g., looking off-screen repeatedly or for long periods.*
 
 
 ## ✨ Quote I Live By
