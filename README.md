@@ -2,6 +2,7 @@
 
 🎓 I'm a B.Tech undergraduate in **Computer Science and Engineering**  
 💻 I love building **beautiful and functional web apps**  
+🫆  Software Engineering | Systems | AI/ML | Edge Computing
 🧠 AI/ML enthusiast | 🎨 Frontend Designer | 💡 Startup Thinker  
 
 ---
