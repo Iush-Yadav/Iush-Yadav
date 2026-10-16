@@ -29,6 +29,9 @@
 
 ## 🌟 Featured Project
 
+### [CareFlow AI] - https://github.com/Iush-Yadav/CareFlow
+* AI HealthCare Analytical project to analyze claims, answer related questions using RAG and more.*
+
 ### 🚀 [Startup Connect]  -  https://github.com/Iush-Yadav/StartupConnect 
 *A platform where startup entrepreneurs and investors collaborate to share diverse, innovative ideas.*
 
