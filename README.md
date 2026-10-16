@@ -165,14 +165,14 @@ Let's Connect
 I am always open to discussing software engineering, artificial intelligence, product ideas, and exciting collaboration opportunities.
 <p>
   <a href="https://contact-ayush.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-contact--ayush.netlify.app-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">//
+    <img src="https://img.shields.io/badge/Portfolio-contact--ayush.netlify.app-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"> ***
   </a>
   <a href="https://www.linkedin.com/in/ayush-yadav-257a232b1/">
     <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Yadav-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>//
-  <a href="mailto:ydvayush27@gmail.com">
+  </a> ***
+  <a href="mailto:iushyadav27@gmail.com">
     <img src="https://img.shields.io/badge/Email-ydvayush27%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>//
+  </a> ***
 </p>
 <div align="center">
 “Great code is invisible. Great design is unforgettable.”
